@@ -1,4 +1,4 @@
-package dev.wony.effectivejava.chapter_1;
+package dev.wony.effectivejava.chapter_1.item_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -16,10 +16,10 @@ import java.util.List;
 import java.util.Set;
 import java.util.Vector;
 
-import static dev.wony.effectivejava.chapter_1.Rank.JACK;
-import static dev.wony.effectivejava.chapter_1.Rank.KING;
-import static dev.wony.effectivejava.chapter_1.Rank.QUEEN;
-import static dev.wony.effectivejava.chapter_1.StackWalker.getInstance;
+import static dev.wony.effectivejava.chapter_1.item_1.Rank.JACK;
+import static dev.wony.effectivejava.chapter_1.item_1.Rank.KING;
+import static dev.wony.effectivejava.chapter_1.item_1.Rank.QUEEN;
+import static dev.wony.effectivejava.chapter_1.item_1.StackWalker.getInstance;
 
 /**
  * 아이템 1

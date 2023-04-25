@@ -1,7 +1,4 @@
-package dev.wony.effectivejava.chapter_1;
-
-import java.util.ArrayList;
-import java.util.Enumeration;
+package dev.wony.effectivejava.chapter_1.item_1;
 
 public class StackWalker {
 
