@@ -1,6 +1,5 @@
-package dev.wony.effectivejava.chapter_2;
+package dev.wony.effectivejava.chapter_2.item_10;
 
-import java.util.Objects;
 import java.util.Set;
 
 public class Point {
